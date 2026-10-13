@@ -87,6 +87,14 @@
 
 <br />
 
+<!-- 🐍 Contribution Snake Graph Animation -->
+<div align="center">
+  <h3>🐍 My Contribution Snake Graph</h3>
+  <img src="https://raw.githubusercontent.com/siumithathsara/siumithathsara/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=300060&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=24&fontColor=ffffff" width="100%" />
 </p>
